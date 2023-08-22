@@ -1,0 +1,1 @@
+msg = 'Olá, Mundo!'
